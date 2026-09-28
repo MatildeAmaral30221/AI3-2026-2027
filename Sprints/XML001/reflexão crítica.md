@@ -23,3 +23,5 @@ Também seria possível representar dois clientes se fossem colocados dois eleme
 
 Se dois colegas criarem hierarquias diferentes e ambas forem documentos XML bem formados, o problema é que um programa que leia as faturas não saberá necessariamente onde encontrar cada informação.
 O programa teria de conhecer diferentes estruturas para conseguir interpretar os documentos. Por isso, consideramos importante existir uma estrutura definida e consistente para que diferentes programas consigam ler as faturas da mesma forma.
+
+ijfdgºeqrgprw
